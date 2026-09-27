@@ -25,6 +25,7 @@ colorlinks: true
 | Modalidad | Entrevista virtual |
 | Duración | 45 minutos aprox. (de la introducción de Estuardo a la frase final del invitado) |
 | Fecha de grabación | 26 de septiembre de 2026 |
+| Repositorio | <https://github.com/DijanU/Podcast> |
 
 # Descripción del episodio
 
@@ -162,6 +163,8 @@ Los anfitriones agradecen a Daniel y le desean éxito con el proyecto de las cá
 - **Codex y Gemini**: asistentes de IA, mencionados como ejemplo de lo que *no* basta para justificar una decisión técnica.
 
 # Referencias y recursos adicionales
+
+- Repositorio del podcast (audio, transcripción y documentos): <https://github.com/DijanU/Podcast>
 
 - Amdahl, G. M. (1967). *Validity of the single processor approach to achieving large scale computing capabilities*. AFIPS Spring Joint Computer Conference, pp. 483--485.
 - Documentación de PyTorch sobre entrenamiento distribuido: <https://pytorch.org/tutorials/beginner/dist_overview.html>
